@@ -11,7 +11,7 @@ To use the script, download the script and use the command below
 
 bash
 
-python credential_generator.py
+python generate.py
 
 # Contributing
 
